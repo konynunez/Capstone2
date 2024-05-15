@@ -32,7 +32,10 @@ and others
    - [x] Button
 - [x] API Key (Unsplash.com)
 - [x] Test Key (Postman)
-- [ ] JavaScript
+- [x] JavaScript
    - [x] Link Selectors
-   - [ ] 
+   - [x] Event listener 'submit'
+   - [x] Function to Fetch Images
+   - [x] For Each Loop
+   - [x] Button Event Listener
 - [ ] Test App in Lighthouse
