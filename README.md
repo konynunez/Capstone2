@@ -38,4 +38,4 @@ and others
    - [x] Function to Fetch Images
    - [x] For Each Loop
    - [x] Button Event Listener
-- [ ] Test App in Lighthouse
+- [x] Test App in Lighthouse
